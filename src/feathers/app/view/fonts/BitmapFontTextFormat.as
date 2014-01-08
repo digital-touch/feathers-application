@@ -1,0 +1,24 @@
+package feathers.app.view.fonts {
+
+import feathers.text.BitmapFontTextFormat;
+
+public class BitmapFontTextFormat extends feathers.text.BitmapFontTextFormat implements ITextFormat {
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    /**
+     *
+     * @param font
+     * @param size
+     * @param color
+     * @param align
+     *
+     */
+    public function BitmapFontTextFormat(font:Object, size:Number = NaN, color:uint = 16777215, align:String = "left") {
+
+        super(font, size, color, align);
+
+    }
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+}
+}

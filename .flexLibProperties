@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="feathers.app.ApplicationEventType"/>
+    <classEntry path="feathers.app.DesignConfig"/>
+    <classEntry path="feathers.app.FeathersApplication"/>
+    <classEntry path="feathers.app.FeathersConfig"/>
+    <classEntry path="feathers.app.command.Command"/>
+    <classEntry path="feathers.app.command.CommandMap"/>
+    <classEntry path="feathers.app.command.CommandResponder"/>
+    <classEntry path="feathers.app.mediator.FeathersMediator"/>
+    <classEntry path="feathers.app.mediator.FeathersScreenMediator"/>
+    <classEntry path="feathers.app.mediator.Mediator"/>
+    <classEntry path="feathers.app.mediator.MediatorMap"/>
+    <classEntry path="feathers.app.mediator.ViewMediator"/>
+    <classEntry path="feathers.app.skin.Skin"/>
+    <classEntry path="feathers.app.splash.SimpleSplash"/>
+    <classEntry path="feathers.app.splash.SplashBase"/>
+    <classEntry path="feathers.app.splash.SplashConfig"/>
+    <classEntry path="feathers.app.view.SnapScrollContainer"/>
+    <classEntry path="feathers.app.view.fonts.BitmapFontTextFormat"/>
+    <classEntry path="feathers.app.view.fonts.ITextFormat"/>
+    <classEntry path="feathers.app.view.fonts.TextFieldTextFormat"/>
+    <classEntry path="logger.DebugTraceTarget"/>
+    <classEntry path="logger.Logger"/>
+    <classEntry path="org.villekoskela.tools.ScalingBox"/>
+    <classEntry path="org.villekoskela.utils.IDRectangle"/>
+    <classEntry path="org.villekoskela.utils.RectanglePacker"/>
+    <classEntry path="org.villekoskela.utils.SortableSize"/>
+    <classEntry path="suspendmode.bitmapfont.factory.BitmapCharFactory"/>
+    <classEntry path="suspendmode.bitmapfont.factory.BitmapFontFactory"/>
+    <classEntry path="suspendmode.bitmapfont.factory.BitmapFontStyle"/>
+    <classEntry path="suspendmode.bitmapfont.factory.CharBitmapData"/>
+    <classEntry path="suspendmode.bitmapfont.factory.IBitmapCharFactory"/>
+    <classEntry path="suspendmode.bitmapfont.factory.IBitmapFontFactory"/>
+    <classEntry path="suspendmode.bitmapfont.factory.IBitmapFontStyle"/>
+    <classEntry path="suspendmode.bitmapfont.factory.ICharBitmapData"/>
+    <classEntry path="suspendmode.bitmapfont.factory.RuntimeBitmapFont"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontChar"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontCommon"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontFile"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontInfo"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontKerning"/>
+    <classEntry path="suspendmode.bitmapfont.file.FontPage"/>
+    <classEntry path="suspendmode.bitmapfont.manager.BitmapFontStyleManager"/>
+    <classEntry path="suspendmode.bitmapfont.manager.IBitmapFontStyleManager"/>
+    <classEntry path="utils.DeviceCapabilities"/>
+    <classEntry path="utils.ObjectUtils"/>
+    <classEntry path="utils.ScaleUtils"/>
+    <classEntry path="utils.ScreenScale"/>
+    <classEntry path="utils.TypeUtils"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

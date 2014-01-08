@@ -1,4 +1,4 @@
-feathers-application
-====================
+starling-simple-app-library
+===========================
 
-feathers-application
+Simple library for small starling applications (uses ioc, mediator map)
